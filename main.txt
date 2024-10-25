@@ -1,0 +1,5 @@
+#include "my\1.txt"
+#include "my\2.txt"
+void main()
+{
+}
